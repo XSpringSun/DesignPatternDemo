@@ -1,0 +1,11 @@
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\bin\Debug\netcoreapp3.0\DecoratorPttern.exe
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\bin\Debug\netcoreapp3.0\DecoratorPttern.deps.json
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\bin\Debug\netcoreapp3.0\DecoratorPttern.runtimeconfig.json
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\bin\Debug\netcoreapp3.0\DecoratorPttern.runtimeconfig.dev.json
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\bin\Debug\netcoreapp3.0\DecoratorPttern.dll
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\bin\Debug\netcoreapp3.0\DecoratorPttern.pdb
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\obj\Debug\netcoreapp3.0\DecoratorPttern.csprojAssemblyReference.cache
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\obj\Debug\netcoreapp3.0\DecoratorPttern.AssemblyInfoInputs.cache
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\obj\Debug\netcoreapp3.0\DecoratorPttern.AssemblyInfo.cs
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\obj\Debug\netcoreapp3.0\DecoratorPttern.dll
+F:\MyProject\DesignPatternConsoleApp\DecoratorPttern\obj\Debug\netcoreapp3.0\DecoratorPttern.pdb

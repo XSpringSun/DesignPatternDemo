@@ -1,0 +1,11 @@
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.0\TemplateMethodPattern.exe
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.0\TemplateMethodPattern.deps.json
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.0\TemplateMethodPattern.runtimeconfig.json
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.0\TemplateMethodPattern.runtimeconfig.dev.json
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.0\TemplateMethodPattern.dll
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.0\TemplateMethodPattern.pdb
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.0\TemplateMethodPattern.csprojAssemblyReference.cache
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.0\TemplateMethodPattern.AssemblyInfo.cs
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.0\TemplateMethodPattern.dll
+F:\MyProject\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.0\TemplateMethodPattern.pdb

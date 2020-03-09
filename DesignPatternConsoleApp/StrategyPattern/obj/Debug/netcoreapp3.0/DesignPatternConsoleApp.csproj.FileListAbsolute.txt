@@ -1,0 +1,11 @@
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\bin\Debug\netcoreapp3.0\DesignPatternConsoleApp.exe
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\bin\Debug\netcoreapp3.0\DesignPatternConsoleApp.deps.json
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\bin\Debug\netcoreapp3.0\DesignPatternConsoleApp.runtimeconfig.json
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\bin\Debug\netcoreapp3.0\DesignPatternConsoleApp.runtimeconfig.dev.json
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\bin\Debug\netcoreapp3.0\DesignPatternConsoleApp.dll
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\bin\Debug\netcoreapp3.0\DesignPatternConsoleApp.pdb
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\obj\Debug\netcoreapp3.0\DesignPatternConsoleApp.csprojAssemblyReference.cache
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\obj\Debug\netcoreapp3.0\DesignPatternConsoleApp.AssemblyInfoInputs.cache
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\obj\Debug\netcoreapp3.0\DesignPatternConsoleApp.AssemblyInfo.cs
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\obj\Debug\netcoreapp3.0\DesignPatternConsoleApp.dll
+F:\MyProject\DesignPatternConsoleApp\DesignPatternConsoleApp\obj\Debug\netcoreapp3.0\DesignPatternConsoleApp.pdb

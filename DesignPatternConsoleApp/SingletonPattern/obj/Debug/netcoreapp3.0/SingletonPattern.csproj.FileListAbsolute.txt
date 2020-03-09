@@ -1,0 +1,11 @@
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.exe
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.deps.json
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.json
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.runtimeconfig.dev.json
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.dll
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\bin\Debug\netcoreapp3.0\SingletonPattern.pdb
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.csprojAssemblyReference.cache
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfoInputs.cache
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.AssemblyInfo.cs
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.dll
+F:\MyProject\DesignPatternConsoleApp\SingletonPattern\obj\Debug\netcoreapp3.0\SingletonPattern.pdb

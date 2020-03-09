@@ -1,0 +1,11 @@
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\bin\Debug\netcoreapp3.0\FacadePattern.exe
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\bin\Debug\netcoreapp3.0\FacadePattern.deps.json
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\bin\Debug\netcoreapp3.0\FacadePattern.runtimeconfig.json
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\bin\Debug\netcoreapp3.0\FacadePattern.runtimeconfig.dev.json
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\bin\Debug\netcoreapp3.0\FacadePattern.dll
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\bin\Debug\netcoreapp3.0\FacadePattern.pdb
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\obj\Debug\netcoreapp3.0\FacadePattern.csprojAssemblyReference.cache
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\obj\Debug\netcoreapp3.0\FacadePattern.AssemblyInfoInputs.cache
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\obj\Debug\netcoreapp3.0\FacadePattern.AssemblyInfo.cs
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\obj\Debug\netcoreapp3.0\FacadePattern.dll
+F:\MyProject\DesignPatternConsoleApp\FacadePattern\obj\Debug\netcoreapp3.0\FacadePattern.pdb

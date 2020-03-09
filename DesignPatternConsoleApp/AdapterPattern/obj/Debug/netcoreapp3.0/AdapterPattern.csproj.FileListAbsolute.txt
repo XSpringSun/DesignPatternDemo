@@ -1,0 +1,10 @@
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.exe
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.deps.json
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.runtimeconfig.json
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.runtimeconfig.dev.json
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.dll
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\bin\Debug\netcoreapp3.0\AdapterPattern.pdb
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.AssemblyInfoInputs.cache
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.AssemblyInfo.cs
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.dll
+F:\MyProject\DesignPatternConsoleApp\AdapterPattern\obj\Debug\netcoreapp3.0\AdapterPattern.pdb
