@@ -9,3 +9,14 @@ F:\MyProject\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\Co
 F:\MyProject\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.AssemblyInfo.cs
 F:\MyProject\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.dll
 F:\MyProject\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.0\CompositePattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.csprojAssemblyReference.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.0\CompositePattern.pdb

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MyProject\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj": {}
+    "D:\\Project\\Self\\DesignPatternDemo\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj": {}
   },
   "projects": {
-    "F:\\MyProject\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj": {
+    "D:\\Project\\Self\\DesignPatternDemo\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MyProject\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj",
+        "projectUniqueName": "D:\\Project\\Self\\DesignPatternDemo\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj",
         "projectName": "DecoratorPttern",
-        "projectPath": "F:\\MyProject\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\MyProject\\DesignPatternConsoleApp\\DecoratorPttern\\obj\\",
+        "projectPath": "D:\\Project\\Self\\DesignPatternDemo\\DesignPatternConsoleApp\\DecoratorPttern\\DecoratorPttern.csproj",
+        "packagesPath": "C:\\Users\\10489\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\Self\\DesignPatternDemo\\DesignPatternConsoleApp\\DecoratorPttern\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\10489\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,12 +47,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.2, 3.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
