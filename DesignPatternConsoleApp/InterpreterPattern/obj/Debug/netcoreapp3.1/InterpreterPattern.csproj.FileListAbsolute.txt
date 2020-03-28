@@ -1,0 +1,10 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\bin\Debug\netcoreapp3.1\InterpreterPattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\bin\Debug\netcoreapp3.1\InterpreterPattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\bin\Debug\netcoreapp3.1\InterpreterPattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\bin\Debug\netcoreapp3.1\InterpreterPattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\bin\Debug\netcoreapp3.1\InterpreterPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\bin\Debug\netcoreapp3.1\InterpreterPattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\obj\Debug\netcoreapp3.1\InterpreterPattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\obj\Debug\netcoreapp3.1\InterpreterPattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\obj\Debug\netcoreapp3.1\InterpreterPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\InterpreterPattern\obj\Debug\netcoreapp3.1\InterpreterPattern.pdb

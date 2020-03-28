@@ -1,0 +1,11 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.csprojAssemblyReference.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.pdb

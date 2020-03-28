@@ -1,0 +1,11 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.csprojAssemblyReference.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.pdb

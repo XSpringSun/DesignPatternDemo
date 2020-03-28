@@ -1,0 +1,10 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.pdb

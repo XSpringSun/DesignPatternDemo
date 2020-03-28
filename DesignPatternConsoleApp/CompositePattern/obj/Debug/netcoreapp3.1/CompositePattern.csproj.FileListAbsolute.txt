@@ -1,0 +1,10 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb

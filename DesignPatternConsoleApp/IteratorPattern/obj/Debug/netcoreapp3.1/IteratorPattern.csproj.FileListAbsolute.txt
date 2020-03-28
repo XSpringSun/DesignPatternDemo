@@ -1,0 +1,10 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.pdb
