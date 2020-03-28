@@ -1,0 +1,11 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\bin\Debug\netcoreapp3.1\BuliderPattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\bin\Debug\netcoreapp3.1\BuliderPattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\bin\Debug\netcoreapp3.1\BuliderPattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\bin\Debug\netcoreapp3.1\BuliderPattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\bin\Debug\netcoreapp3.1\BuliderPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\bin\Debug\netcoreapp3.1\BuliderPattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\obj\Debug\netcoreapp3.1\BuliderPattern.csprojAssemblyReference.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\obj\Debug\netcoreapp3.1\BuliderPattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\obj\Debug\netcoreapp3.1\BuliderPattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\obj\Debug\netcoreapp3.1\BuliderPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\BuliderPattern\obj\Debug\netcoreapp3.1\BuliderPattern.pdb

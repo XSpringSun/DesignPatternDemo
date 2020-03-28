@@ -1,0 +1,11 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\bin\Debug\netcoreapp3.1\VisitorPattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.csprojAssemblyReference.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\VisitorPattern\obj\Debug\netcoreapp3.1\VisitorPattern.pdb

@@ -1,0 +1,13 @@
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfoInputs.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.AssemblyInfo.cs
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.exe
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.deps.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.runtimeconfig.dev.json
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\bin\Debug\netcoreapp3.1\PrototypePattern.pdb
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csprojAssemblyReference.cache
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.csproj.CopyComplete
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.dll
+D:\Project\Self\DesignPatternDemo\DesignPatternConsoleApp\PrototypePattern\obj\Debug\netcoreapp3.1\PrototypePattern.pdb
